@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Crucible"
+date:   2017-11-14 12:40:00 -0400
+categories: lit-blog
+---
+
+![](https://howbeamerican.files.wordpress.com/2017/10/img_0151.jpg)
+
+Sometimes, when reading *The Crucible*, I feel like John Proctor is a hero (his final decision to sacrifice himself), and sometimes I feel like Proctor is evil (his treatment of Mary Warren). I attempted to act out a similar conflict while playing Rev. Hale, and I found it extremely difficult, which is why I am so amazed at the actor’s performance of Proctor.
+
+He masterfully built up a strong and fearless character through the first act, then shocked the audience with his transformation into a broken man over the course of the second, third, and fourth scenes. His violent interaction with Mary Warren showed real fear that his wife would be accused. Later, in his meeting with Abigail in the woods, my classmate did a fantastic job of showing vulnerability yet also being firm and directive with Abigail. Showing two sides of the same character is a very difficult thing to do, and he demonstrated mastery in that skill in his performance. His breakdown in the courtroom and his final declaration that “God is dead” were captivating and displayed the ‘snap’ of his loss of self control.
+
+His performance in the final scene, however, was nothing short of jaw dropping. He entered the scene as a scared, broken man. This is a stark contrast to the man who was in scene one. Contrasts like Proctor’s are extremely difficult to act out because it forces the actor to create two characters, and gracefully transition between them. The actor executed this transition with grace and precision. The most beautiful moment of the show, for me, was the final three lines of Parris, Hale, and Elizabeth. As a spotlight tightens on Proctor’s face, the audience hears Parris and Hale begging “Go to him Goody Proctor, take his shame away”. Then, Elizabeth declares, “He have his goodness now, God forbid I take it from him”, the music swells, and the spotlight goes out. The use of technical elements to illustrate the death of Proctor was an interesting choice of the director. I believe that a more graphic scene would have also worked, perhaps even more effectively. The shock tactic would have sent a strong message to the audience. But, showing a gruesome murder on a high school stage isn’t acceptable, especially since there were also younger kids in the audience. However, the technical elements were nearly as good, and made the play more reasonable for a high school audience.
+
+One message of *The Crucible* has massive ramifications today. Too often we wall ourselves into our own echo chambers and refuse to listen to anyone from the outside. When we do this, we open ourselves up to the possibility of our prejudices and suspicions taking over and leading us to incorrect and dangerous conclusions, like the conclusions drawn in Salem.
+
+This production of *The Crucible* also serves as a warning to the school community that conditions similar to the apparent witchcraft in Salem can still lead to outcomes like the unjust executions. Of course, the consequences of confusion in a school community would never be as severe as those in Salem, but overzealousness in response to pain can still lead to those on the fringes of the social order being pushed further out, while those in the center are drawn closer together. This warning is emphasized by the setting of the play in a high school in the future. It almost seems like the director was specifically warning my high school about what could happen to us if we aren’t careful.
