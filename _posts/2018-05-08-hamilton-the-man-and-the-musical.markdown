@@ -7,7 +7,7 @@ categories: lit-blog
 
 ![](https://content.fortune.com/wp-content/uploads/2016/09/lin10_a.jpg)
 
-Hamilton, the hit musical, has enthralled audiences and inspired Americans since its first preview in February, 2015. But why are people influenced by this musical?
+*Hamilton*, the hit musical, has enthralled audiences and inspired Americans since its first preview in February, 2015. But why are people influenced by this musical?
 
 Alexander Hamilton was born on a small island in the Caribbean called Nevis. Soon after he was born, his father left his mother to raise him alone, but she also died soon after. Hamilton was left an orphan without anyone to whom he could turn. He must have felt completely alone. As if his life had not already had enough hardship, a hurricane tore through the Caribbean, and left the entire island decimated. He used his gift of language to write about the hurricane and its effect on Nevis. People, both in the Caribbean and around America, were enthralled by his eloquence. He drew attention from some wealthy individuals who decided to sell a book collection to pay for Hamilton’s passage to the mainland.
 
