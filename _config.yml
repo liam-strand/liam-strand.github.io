@@ -28,7 +28,7 @@ twitter_username: strand_liam
 github_username:  liam-strand
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
