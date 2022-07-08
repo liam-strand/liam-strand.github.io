@@ -5,8 +5,12 @@
 layout: home
 ---
 
-Hi Everyone, welcome to my blog/website/dumping ground for old stuff that I think is fun! I maintained a blog in high school, and when it was shut down, I migrated the posts here. Most of them are focused on literature (it was a part of my English class), but I really enjoyed writing for it and I think that the posts are worth keeping around.
+Welcome!
 
-Those posts are from my time at Sacred Heart. Now I am a rising junior studying computer science at the Tufts School of Engineering, so the content of the blog will likely change to focus on my current work. But, who knows, maybe some literature or theatre will pop up at some point! 
+This is a repository for a few migrated posts from an old blog, along with links to my [GitHub](https://github.com/liam-strand), [YouTube](https://www.youtube.com/c/LiamStrand/featured), and [SoundCloud](https://soundcloud.com/liam_itchy_dad) accounts where you will find samples of some of my recent and past work, and interests.
 
-I hope you enjoy your time here, feel free to check out my [GitHub](https://github.com/liam-strand), [YouTube](https://www.youtube.com/c/LiamStrand/featured), or [SoundCloud](https://soundcloud.com/liam_itchy_dad) accounts.
+I am a rising junior studying computer science at the Tufts School of Engineering. I love solving complex problems and care deeply in my role as a TA about helping students have an exciting and welcoming first step into computer science. Although I have become enamored with Erlang, I am doing most of my current work in Python and C++, and dabbling in Rust and TypeScript.
+
+Outside of my life as a developing engineer, I split my time between family homes on the East and West coasts, where I am often coerced into home repair projects. I enjoy hiking and spending time on the water. Theatre is fortunately still in my life throughout the year as a reader/judge for a Summer Short Play Festival. I also get lots of pleasure from cooking and baking for others, and from reading almost anything alongside Bela, my unpredictable dog.
+
+Liam
