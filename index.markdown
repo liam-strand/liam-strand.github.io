@@ -14,3 +14,5 @@ I am a rising junior studying computer science at the Tufts School of Engineerin
 Outside of my life as a developing engineer, I split my time between family homes on the East and West coasts, where I am often coerced into home repair projects. I enjoy hiking and spending time on the water. Theatre is fortunately still in my life throughout the year as a reader/judge for a Summer Short Play Festival. I also get lots of pleasure from cooking and baking for others, and from reading almost anything alongside Bela, my unpredictable dog.
 
 Liam
+
+![Bela](/assets/bela.jpeg)
