@@ -37,3 +37,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Fix dependabot security warning
 gem "nokogiri", "~> 1.13.6"
+
+gem "jekyll-archives"

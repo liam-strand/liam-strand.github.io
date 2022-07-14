@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Click [here]({% post_url 2022-07-14-First-Two-Days %}) for updates on my Dad's cardiac situation.
+Click [HERE]({% post_url 2022-07-14-First-Two-Days %}) for updates on my Dad's cardiac situation.
 
 ---
 
