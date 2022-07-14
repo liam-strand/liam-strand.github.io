@@ -5,7 +5,7 @@ date:   2018-05-23 13:40:00 -0400
 categories: lit-blog
 ---
 
-![](https://static.wikia.nocookie.net/hamiltonmusical/images/5/54/103Lunges.jpg/revision/latest/scale-to-width-down/1000?cb=20161019135125)
+![picture of hamilton](https://static.wikia.nocookie.net/hamiltonmusical/images/5/54/103Lunges.jpg/revision/latest/scale-to-width-down/1000?cb=20161019135125)
 
 You don’t have to know me for very long before you realize that I don’t back down from a fight. No, not physical fights, but cognitive challenges. I will sign up for more activities than I can manage, then carefully balance my commitments so that I can, if the stars all align, perform well in all arenas. This is not healthy, and I know that. But, I take a certain amount of pride in being able to churn through tremendous amounts of work in limited time. Of course, the more I overcommit myself, the more testy I get. I wouldn’t say that I get mean or grouchy, I just get a little sharp around the edges.
 

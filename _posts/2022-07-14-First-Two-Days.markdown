@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Excitement, Part One"
+title:  "First Two Days"
 date:   2022-07-14 12:22:00 -0400
 categories: dad-cardiac
 ---
