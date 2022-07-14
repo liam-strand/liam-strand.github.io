@@ -5,6 +5,10 @@
 layout: home
 ---
 
+Click [here](/dad-cardiac) for updates on my Dad's cardiac situation.
+
+---
+
 Welcome!
 
 This is a repository for a few migrated posts from an old blog, along with links to my [GitHub](https://github.com/liam-strand), [YouTube](https://www.youtube.com/c/LiamStrand/featured), and [SoundCloud](https://soundcloud.com/liam_itchy_dad) accounts where you will find samples of some of my recent and past work, and interests.
