@@ -5,7 +5,15 @@
 layout: home
 ---
 
-Click [HERE]({% post_url 2022-07-14-First-Two-Days %}) for updates on my Dad's cardiac situation.
+Here is a list of posts about my Dad's cardiac situation:
+
+<ul>
+  {% for post in site.categories.dad-cardiac %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 ---
 
