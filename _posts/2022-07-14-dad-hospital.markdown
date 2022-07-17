@@ -11,7 +11,7 @@ As we discussed the process, we learned that it involved at a minimum doing a [m
 
 After discussing pros and cons of doing a mediastinoscopy, and running our thoughts by two additional doctors, we decided to plan for Dad to have a [biventricular pacemaker](https://www.nm.org/conditions-and-care-areas/treatments/biventricular-pacemaker) placed tomorrow (Friday), and forego the mediastinoscopy for the moment. Truth be told, implanting a pacemaker is not a difficult procedure. It does not involve full sedation, and usually results in the patient going home that or the following day.
 
-So, assuming all goes as planned, Dad will have a pacemaker inserted tomorrow, and likely be discharged Saturday. Meanwhile, Liam and I will tour three (small) apartments across from Google’s Cambridge offices, and select one to rent for the short term. This will allow Dad to ease into work, while we and the MGH team try to determine what more needs to be done if anything.
+So, assuming all goes as planned, Dad will have a pacemaker inserted tomorrow, and likely be discharged Saturday. Meanwhile, Liam and Kristina will tour three (small) apartments across from Google’s Cambridge offices, and select one to rent for the short term. This will allow Dad to ease into work, while we and the MGH team try to determine what more needs to be done if anything.
 
-Thank you everyone for your support, and my apologies again to those whom I have “left hanging”.
+Thank you everyone for your support, and my apologies again to those whom have been “left hanging”.
 
