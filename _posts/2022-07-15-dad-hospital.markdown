@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 15th"
-date: 2022-07-14 12:22:00 -0400
+date: 2022-07-15 12:22:00 -0400
 categories: dad-cardiac
 ---
 
