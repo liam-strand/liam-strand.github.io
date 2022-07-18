@@ -13,5 +13,3 @@ After discussing pros and cons of doing a mediastinoscopy, and running our thoug
 
 So, assuming all goes as planned, Dad will have a pacemaker inserted tomorrow, and likely be discharged Saturday. Meanwhile, Liam and Kristina will tour three (small) apartments across from Google’s Cambridge offices, and select one to rent for the short term. This will allow Dad to ease into work, while we and the MGH team try to determine what more needs to be done if anything.
 
-Thank you everyone for your support, and my apologies again to those who have been “left hanging”.
-
