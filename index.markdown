@@ -32,4 +32,4 @@ Outside of my life as a developing engineer, I split my time between family home
 
 Liam
 
-![Bela](/assets/bela.jpeg)
+![Bela](/assets/images/bela.jpeg)
