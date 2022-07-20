@@ -5,20 +5,9 @@
 layout: home
 ---
 
-On July 12th, my Dad was airlifted to Massachussets General Hospital here in Boston
-with heart problems. I am repurposing my website to serve as a place where we can
-post updates about his health. Once this is resolved, I'll remove this header and 
-post some CS stuff :)
+On July 12th, my Dad was airlifted to Massachussets General Hospital here in Boston with heart problems. I am repurposing my website to serve as a place where we can post updates about his health. Once this is resolved, I'll remove this header and post some CS stuff :)
 
-Here is a list of posts about his cardiac situation:
-
-<ul>
-  {% for post in site.categories.dad-cardiac %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+Click [HERE](/dad-cardiac/) to see a list of posts about his situation.
 
 ---
 
