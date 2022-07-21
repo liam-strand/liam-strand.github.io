@@ -19,4 +19,4 @@ On Saturday and Sunday, Mom spent a lot of time at the hospital keeping Dad comp
 
 On another note, Mom had the idea to send me to Nantucket to pick up some items that were going to be needed for a longish-term stay in Boston, and to take care of buttoning up the house. Since Mom and Dad left so suddenly on Tuesday, the house was not in a stable state (dirty clothes, dishes, perishable food, etc.), and Bela needed a check-in to make sure everything was in order with her.
 
-Julia came along with me to help out and to provide moral support. They ended up returning to Boston on Monday, after the usual travel complications, complete with phone-calls to JetBlue and Cape Air.
+Julia came along with me to help out and to provide moral support. We ended up returning to Boston on Monday, after the usual travel complications, complete with phone-calls to JetBlue and Cape Air.
