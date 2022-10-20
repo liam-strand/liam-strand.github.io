@@ -1,5 +1,5 @@
 ---
 layout: page
-title: resume
+title: Resume
 permalink: /resume/cv.pdf
 ---

@@ -23,14 +23,15 @@ email: Liam.Strand@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
   So many nice things will be here one day.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://liam-strand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: strand_liam
 github_username:  liam-strand
 
 # Build settings
-theme: minima
+theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
