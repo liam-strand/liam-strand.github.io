@@ -11,10 +11,13 @@ This is a repository for a few migrated posts from an old blog, along with links
 
 A little about me:
 
-I am a junior studying computer science at the Tufts School of Engineering. I love taking complex problems that I don’t know how to solve, and breaking them down into solvable pieces that allow me to create elegant solutions.  Sometimes this also involves looking for pre-existing knowledge and solutions, identifying and developing needed new skills, and writing and deleting lots of bad code to identify incorrect solutions before the great solution becomes evident. I enjoy delving into every part of this process, including learning new problem-solving approaches, discovering new tools, and learning new languages. Early on, I became enamored with Erlang, I am however doing most of my work in Python and C++, and dabbling in Rust and TypeScript.
+I am a Senior studying computer science at the Tufts School of Engineering. I love taking complex problems that I don’t know how to solve, and breaking them down into solvable pieces that allow me to create elegant solutions.  Sometimes this also involves looking for pre-existing knowledge and solutions, identifying and developing needed new skills, and writing and deleting lots of bad code to identify incorrect solutions before the great solution becomes evident. I enjoy delving into every part of this process, including learning new problem-solving approaches, discovering new tools, and learning new languages. Early on, I became enamored with Erlang, I am however doing most of my work in Python and C++, and dabbling in Rust and TypeScript.
+
+My most exciting recent work has been in embedded, performance-constrained environments. I find squeezing every last drop of performance out of a tiny processor immensely gratifying. Oftentimes this relies on algorithmic optimizations, other times on profiling techniques.
 
 Outside of my life as a developing engineer, I relish time with my friends and also split my time between family homes on the East and West coasts, where I am often coerced into home repair projects. I love to read, although I do not have nearly enough time to make a dent in my giant pile of books. I also enjoy hiking and working out with my friends, doing nearly anything on the water, singing in a concert choir, and being a reader/judge for a short play festival. Last but definitely not least, I get tremendous pleasure from baking and cooking with others, and from hanging out with Bela, my wonderful but unpredictable dog.
 
 Liam
 
 ![Bela](/assets/images/bela.jpeg)
+
